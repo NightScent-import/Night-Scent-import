@@ -1,0 +1,17 @@
+NIGHT SCENT IMPORT — SITIO PARA GITHUB PAGES
+
+CONTENIDO
+- index.html: página completa del catálogo. Las imágenes están incorporadas dentro del propio archivo, así que no hace falta subir una carpeta de imágenes.
+
+PUBLICAR EN GITHUB
+1. Entrá a https://github.com y creá un repositorio nuevo.
+2. Subí el archivo index.html y este archivo LEEME.txt a la raíz del repositorio.
+3. Abrí Settings > Pages.
+4. En Build and deployment, elegí Deploy from a branch.
+5. Seleccioná la rama main y la carpeta /(root), y guardá.
+6. Esperá unos minutos y abrí la dirección que GitHub Pages te muestre en esa pantalla.
+
+IMPORTANTE
+- El archivo principal debe llamarse exactamente index.html.
+- El botón flotante de WhatsApp desaparece cuando agregás productos a la lista de consulta y vuelve a aparecer cuando la lista queda vacía.
+- El botón de WhatsApp dentro de la lista sigue disponible para enviar la consulta.
